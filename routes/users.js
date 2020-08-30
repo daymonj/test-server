@@ -7,7 +7,7 @@ router.get('/', function(req, res, next) {
 });
 
 router.get('/hoho', function(req, res, next) {
-  res.json('hohohohoho login');
+  res.json('hohohohoho login login');
 });
 
 
